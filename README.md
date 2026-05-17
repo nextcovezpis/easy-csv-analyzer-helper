@@ -1,2 +1,9 @@
-# easy-csv-analyzer-helper
-A simple csv analyzer project
+# Csv Analyzer
+
+A simple csv analyzer project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
